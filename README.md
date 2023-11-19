@@ -12,25 +12,22 @@ fires are one of the worst disasters to hit the country. It destroys everything 
 humans undermines the national economy by billions of dollars and destroys the bio-systems.
 All these effects affect sustainable development and prevent us from achieving this goal as it 
 destroys the 3 main pillars of sustainable development which are.
-1- Environmental pillar ( climate  )
+1- Environmental pillar ( climate )
 2- Economical pillar ( Business and cooperates )
 3- social pillar. (people and lives)
 
 ## Features
-
-
-
-## Dashboard
+### Dashboard
 ![gitHub](https://github.com/MostafaEdrees11/Fire_Control_System/blob/master/Simulation/Dashboard.gif)
 
-## Dashboard on Mobile App
-![gitHub]()
+### Dashboard on Mobile App
+![gitHub](https://github.com/MostafaEdrees11/Fire_Control_System/blob/master/Simulation/Dashboard%20on%20Mobile%20App.gif)
 
-## Swivel
+### Swivel
 ![gitHub](https://github.com/MostafaEdrees11/Fire_Control_System/blob/master/Simulation/swivel.gif)
 
-## Ai Model & AR Escape Map
-### Ai Model
+### Ai Model & AR Escape Map
+#### Ai Model
 we used the AI model YOLOV5 to capture images to inform how big the fire becomes, 
 and a built-in image processing feature will immediately check the image and verify it. 
 Then, images would be uploaded to our database to be processed and classified to get more information about 
@@ -46,7 +43,10 @@ also they can send a message to hospitals or firefighters to find them.
 ![gitHub](https://github.com/MostafaEdrees11/Fire_Control_System/blob/master/Simulation/2.jpg)
 ![gitHub](https://github.com/MostafaEdrees11/Fire_Control_System/blob/master/Simulation/3.jpg)
 
-### AR Escape Map
-![gitHub]()
-![gitHub]()
-![gitHub]()
+#### AR Escape Map
+![gitHub](https://github.com/MostafaEdrees11/Fire_Control_System/blob/master/Simulation/ar%20app%20.jpg)
+![gitHub](https://github.com/MostafaEdrees11/Fire_Control_System/blob/master/Simulation/ar%20features%20.jpg)
+![gitHub](https://github.com/MostafaEdrees11/Fire_Control_System/blob/master/Simulation/map%20.jpg)
+
+## BMC
+![gitHub](https://github.com/MostafaEdrees11/Fire_Control_System/blob/master/BMC/BMC.jpg)
