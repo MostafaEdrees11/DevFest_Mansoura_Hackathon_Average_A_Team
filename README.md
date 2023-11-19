@@ -24,6 +24,10 @@ destroys the 3 main pillars of sustainable development which are.
 ![gitHub](https://github.com/MostafaEdrees11/Fire_Control_System/blob/master/Simulation/Dashboard.gif)
 
 ### Dashboard on Mobile App
+![gitHub](https://github.com/MostafaEdrees11/DevFest_Mansoura_Hackathon_Average_A_Team/blob/master/Simulation/1.jpg)
+![gitHub](https://github.com/MostafaEdrees11/DevFest_Mansoura_Hackathon_Average_A_Team/blob/master/Simulation/Mobil%20App%20photos/2.jpg)
+![gitHub](https://github.com/MostafaEdrees11/DevFest_Mansoura_Hackathon_Average_A_Team/blob/master/Simulation/Mobil%20App%20photos/Artboard%201.png)
+![gitHub](https://github.com/MostafaEdrees11/DevFest_Mansoura_Hackathon_Average_A_Team/blob/master/Simulation/Mobil%20App%20photos/Artboard%202.png)
 ![gitHub](https://github.com/MostafaEdrees11/Fire_Control_System/blob/master/Simulation/Dashboard%20on%20Mobile%20App.gif)
 
 ### Swivel
