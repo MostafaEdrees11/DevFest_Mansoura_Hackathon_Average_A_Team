@@ -12,8 +12,11 @@ fires are one of the worst disasters to hit the country. It destroys everything 
 humans undermines the national economy by billions of dollars and destroys the bio-systems.
 All these effects affect sustainable development and prevent us from achieving this goal as it 
 destroys the 3 main pillars of sustainable development which are.
+
 1- Environmental pillar ( climate )
+
 2- Economical pillar ( Business and cooperates )
+
 3- social pillar. (people and lives)
 
 ## Features
