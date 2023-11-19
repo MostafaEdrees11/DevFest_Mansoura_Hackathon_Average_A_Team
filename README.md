@@ -9,10 +9,10 @@ customized for customers.
 
 
 ## Dashboard
-![gitHub]()
+![gitHub](https://github.com/MostafaEdrees11/Fire_Control_System/blob/master/Simulation/Dashboard.gif)
 
 ## Swivel
-![gitHub]()
+![gitHub](https://github.com/MostafaEdrees11/Fire_Control_System/blob/master/Simulation/swivel.gif)
 
 ## Ai Model
 ![gitHub]()
