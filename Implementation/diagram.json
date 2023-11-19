@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "author": "Anonymous maker",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-esp32-devkit-v1", "id": "esp", "top": -148.9, "left": -62.6, "attrs": {} },
+    {
+      "type": "wokwi-ntc-temperature-sensor",
+      "id": "ntc1",
+      "top": 2.6,
+      "left": -365.4,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-buzzer",
+      "id": "bz1",
+      "top": -170.4,
+      "left": 88.2,
+      "attrs": { "volume": "0.1" }
+    },
+    {
+      "type": "wokwi-ntc-temperature-sensor",
+      "id": "ntc2",
+      "top": -93.4,
+      "left": -394.2,
+      "attrs": {}
+    }
+  ],
+  "connections": [
+    [ "esp:TX0", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX0", "$serialMonitor:TX", "", [] ],
+    [ "ntc1:GND", "esp:GND.1", "black", [ "h48.95", "v153.6", "h325.45", "v-182.3" ] ],
+    [ "ntc1:VCC", "esp:3V3", "red", [ "h33.25", "v163.2", "h369.95", "v-192" ] ],
+    [ "esp:D32", "ntc1:OUT", "green", [ "h-23.21", "v8.36", "h1.54", "v6.94", "h-60.95" ] ],
+    [ "bz1:1", "esp:GND.1", "green", [ "v0" ] ],
+    [ "bz1:2", "esp:D2", "green", [ "v0" ] ],
+    [ "ntc2:OUT", "esp:D33", "green", [ "h57.6", "v115.1" ] ],
+    [ "ntc2:VCC", "esp:3V3", "red", [ "h105.6", "v220.8", "h249.6", "v-153.6" ] ],
+    [ "ntc2:GND", "esp:GND.1", "black", [ "h124.8", "v211.2", "h211.2", "v-143.9" ] ]
+  ],
+  "dependencies": {}
+}
