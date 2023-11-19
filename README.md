@@ -15,6 +15,6 @@ customized for customers.
 ![gitHub](https://github.com/MostafaEdrees11/Fire_Control_System/blob/master/Simulation/swivel.gif)
 
 ## Ai Model
-![gitHub]()
-![gitHub]()
-![gitHub]()
+![gitHub](https://github.com/MostafaEdrees11/Fire_Control_System/blob/master/Simulation/1.jpg)
+![gitHub](https://github.com/MostafaEdrees11/Fire_Control_System/blob/master/Simulation/2.jpg)
+![gitHub](https://github.com/MostafaEdrees11/Fire_Control_System/blob/master/Simulation/3.jpg)
