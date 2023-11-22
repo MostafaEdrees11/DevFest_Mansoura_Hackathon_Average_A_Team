@@ -65,6 +65,12 @@ also they can send a message to hospitals or firefighters to find them.
 [Link](https://drive.google.com/file/d/1nkblINqgMxBleTannHnY-Uua7yGwkkfm/view?usp=drive_link)
 
 ## Team Members
+[Ammar Rakha](https://www.linkedin.com/in/ammar-rakha/)
+[Ahmed Abdelfatth](https://www.linkedin.com/in/ahmed-abdelfatth/)
+[Mostafa Selim](https://www.linkedin.com/in/mostafa-selim-a46a5a242/)
+[Mostafa Edrees](https://www.linkedin.com/in/mostafa-edrees11/)
+[Yasmin Kadry](https://www.linkedin.com/in/yasmin-kadry/)
+[Menna Eid](https://www.linkedin.com/in/menna-eid-084115240/)
 ![gitHub](https://github.com/MostafaEdrees11/DevFest_Mansoura_Hackathon_Average_A_Team/blob/master/Video/intro.gif)
 
 ## Any Questions
