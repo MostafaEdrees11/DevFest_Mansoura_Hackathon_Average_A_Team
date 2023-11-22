@@ -57,3 +57,15 @@ also they can send a message to hospitals or firefighters to find them.
 
 ## BMC
 ![gitHub](https://github.com/MostafaEdrees11/Fire_Control_System/blob/master/BMC/BMC.jpg)
+
+## Presentation 
+[Link](https://www.canva.com/design/DAFwdU6254g/_tR2t6Ukuvw3RdxrxUZKYg/edit?utm_content=DAFwdU6254g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+## Team Members
+![gitHub]()
+
+## Any Questions
+![gitHub]()
+
+## Thank You
+![gitHub]()
